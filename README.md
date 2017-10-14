@@ -1,2 +1,3 @@
 # hello-world
-A test repository for the hello world exercise.
+
+Here's where I'd type a bit about myself.
